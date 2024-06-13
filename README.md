@@ -18,4 +18,4 @@ Cada pasta contém os arquivos correspondentes aos exercícios, nomeados de acor
 O BeeCrowd é uma plataforma de ensino de programação que oferece listas de exercícios de algoritmos e programação para ajudar no desenvolvimento de habilidades de resolução de problemas e lógica de programação. Se você ainda não conhece, confira em: [BeeCrowd](https://www.beecrowd.com.br/).
 
 ## Autora
-[httpadrfis](https://github.com/httpadrfis).
+[adriellymd](https://github.com/adriellymd).
